@@ -1,6 +1,10 @@
 # Env Files
-.env
+*.env
 
 # Module folders
 node_modules/
 .next/
+
+# Pycache
+__pycache__/
+*.pyc
